@@ -124,3 +124,39 @@
     font-weight: 500;
     margin: 5px;
 }
+
+.positive-container {
+    width: 60%;
+    height: 200px;
+    margin: auto;
+    background-image: linear-gradient(to left, rgba(255,0,0,0), tomato), url('/images/watch.png');
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+.positive {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    margin-left: 30px;
+}
+
+.positive-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+    font-weight: 700;
+    color: white;
+}
+
+.positive-btn {
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    width: 120px;
+    background-color: white;
+    color: tomato;
+    font-weight: 600;
+}
+
