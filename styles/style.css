@@ -86,13 +86,13 @@
     font-weight: 500;
 }
 
-.myplan-container {
+.my-container {
     width: 70%;
     margin: auto;
     margin-top: 150px;
 }
 
-.myplan-title {
+.my-title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
     font-weight: 700;
@@ -100,24 +100,24 @@
     margin-bottom: 50px;
 }
 
-.myplan-list-container {
+.my-list-container {
     display: flex;
     justify-content: space-around;
 }
 
-.myplan {
+.my {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.myplan h3 {
+.my h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 5px;
 }
 
-.myplan p {
+.my p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #444343c3;
     font-size: 16px;
