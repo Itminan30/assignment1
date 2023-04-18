@@ -76,7 +76,7 @@
 .previous-list {
     list-style-position: inside;
     padding-left: 0px;
-    
+
 }
 
 .previous-list li {
@@ -86,3 +86,41 @@
     font-weight: 500;
 }
 
+.myplan-container {
+    width: 70%;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.myplan-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.myplan-list-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.myplan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.myplan h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+}
+
+.myplan p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #444343c3;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 5px;
+}
