@@ -1,5 +1,5 @@
 .header-container {
-    background: url('/images/banner/banner2.png');
+    background: url('images/banner/banner2.png');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -129,7 +129,7 @@
     width: 60%;
     height: 200px;
     margin: auto;
-    background-image: linear-gradient(to left, rgba(255,0,0,0), tomato), url('/images/watch.png');
+    background-image: linear-gradient(to left, rgba(255,0,0,0), tomato), url('images/watch.png');
     border-radius: 5px;
     margin-top: 100px;
 }
